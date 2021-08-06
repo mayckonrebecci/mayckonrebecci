@@ -1,13 +1,16 @@
-[![card](https://github-readme-stats.vercel.app/api?username=mayckonrebecci&theme=dracula)](https://github.com/mayckonrebecci/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mayckonrebecci&hide=html&layout=compact&theme=dracula)](https://github.com/mayckonrebecci/)
+## Prazer! Mayckon Rebecci aqui, seja muito bem vindo ao meu perfil!
 
+<div>
+  <a href="https://github.com/mayckonrebecci/">
+   <img src="https://github-readme-stats.vercel.app/api?username=mayckonrebecci&theme=dracula&show_icons=true&(https://github.com/mayckonrebecci/)"/><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayckonrebecci&hide=html&layout=compact&theme=dracula&(https://github.com/mayckonrebecci/"/>  
+</div>
 
-
-- 👋 Hi, I’m @mayckonrebecci
+<!-- - 👋 Hi, I’m @mayckonrebecci
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 mayckonrebecci/mayckonrebecci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
