@@ -43,6 +43,8 @@
 ### 🧰&nbsp;Tools
 
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/git-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/gitbash-original.png"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/windows-terminal-original.png"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/illustrator-plain.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/photoshop-plain.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/trello-plain.svg"/></a></code>&nbsp;
