@@ -1,7 +1,6 @@
 
 <img src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/helloworld!.png"/><br><img src="https://komarev.com/ghpvc/?username=mayckonrebecci&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
-
 <a href="https://instagram.com/mayckonrebecci"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/Instagram_original.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mayckonrebecci/"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/linkedin-original.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mayckonrebecci"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/twitter-original.jpg"></a>&nbsp;&nbsp;
@@ -10,8 +9,10 @@
 &nbsp;💼&nbsp;Co-founder and Partner Owner at <a href= "https://www.posthive.com.br/">PostHive</a>.<br>
 &nbsp;👨‍💻&nbsp;I learned hard to code in 2020.<br>
 &nbsp;👪&nbsp;Beloved Husband and father of Natalie.<br>
+&nbsp;📖&nbsp;Learning `Fullstack Web Development`. <br>
 &nbsp;🎯&nbsp;I'm currently deepen and learning Vanilla Javascript.<br>
-&nbsp;🚀&nbsp;I'm currently doing #100DaysOfCode Challenge.
+&nbsp;🚀&nbsp;I'm currently doing `#100DaysOfCode Challenge`.<br>
+&nbsp;🧩&nbsp;An extension every Dev needs 👉 <a href="https://api.daily.dev/get?r=mayckonrebecci">HERE</a> .
 
 <hr width="840px">
 
@@ -27,41 +28,41 @@
 
 ### 👨‍💻&nbsp;Languages
 
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/html5-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/css3-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/javascript-original.svg"/></a>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/html5-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/css3-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/javascript-original.svg"/></a></code>&nbsp;
 
 <hr width="840px">
 
 ### ⚙️&nbsp;Frameworks
 
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/bootstrap-original.jpg"/></a>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/bootstrap-original.jpg"/></a></code>&nbsp;
 
 <hr width="840px">
 
 ### 🧰&nbsp;Tools
 
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/git-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/illustrator-plain.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/photoshop-plain.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/trello-plain.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/ubuntu-plain.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/visualstudio-plain.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/vscode-original.svg"/></a>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/git-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/illustrator-plain.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/photoshop-plain.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/trello-plain.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/ubuntu-plain.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/visualstudio-plain.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/vscode-original.svg"/></a></code>&nbsp;
 
 <hr width="840px">
 
 ### 📖&nbsp;Comming to my Portfolio
 
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/typescript-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/react-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/redux-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/express-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/nodejs-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/nextjs-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/jquery-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mongodb-original.svg"/></a>&nbsp;
-<a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/npm-original-wordmark.svg"/></a>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/typescript-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/react-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/redux-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/express-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/nodejs-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/nextjs-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/jquery-original.svg"/></a></code></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mongodb-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/npm-original-wordmark.svg"/></a></code>&nbsp;
 
   
 
