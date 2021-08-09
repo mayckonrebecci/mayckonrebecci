@@ -7,6 +7,12 @@
 <a href="https://twitter.com/mayckonrebecci"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/twitter-original.jpg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/mayckonrebecci"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/devto-original.png"></a>&nbsp;&nbsp;
 
+&nbsp;💼&nbsp;Co-founder and Partner Owner at <a href= "https://www.posthive.com.br/">PostHive</a>.<br>
+&nbsp;👨‍💻&nbsp;I learned hard to code in 2020.<br>
+&nbsp;👪&nbsp;Beloved Husband and father of Natalie.<br>
+&nbsp;🎯&nbsp;I'm currently deepen and learning Vanilla Javascript.<br>
+&nbsp;🚀&nbsp;I'm currently doing #100DaysOfCode Challenge.
+
 <hr width="840px">
 
 <div >
