@@ -1,4 +1,3 @@
-
 <img src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/helloworld!.gif"/><br>
 <img src="https://komarev.com/ghpvc/?username=mayckonrebecci&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
@@ -12,8 +11,11 @@
 &nbsp;👪&nbsp;Beloved Husband and father of Natalie.<br>
 &nbsp;📖&nbsp;Learning `Fullstack Web Development`. <br>
 &nbsp;🎯&nbsp;I'm currently deepen and learning Vanilla Javascript.<br>
-&nbsp;🚀&nbsp;I'm currently doing `#100DaysOfCode Challenge`.<br>
-&nbsp;🧩&nbsp;An extension every Dev needs 👉 <a href="https://api.daily.dev/get?r=mayckonrebecci">HERE</a> .
+&nbsp;🧩&nbsp;An extension every Dev needs 👉 <a href="https://api.daily.dev/get?r=mayckonrebecci">HERE</a>.<br>
+&nbsp;🚀&nbsp;I'm currently doing `#100DaysOfCode Challenge`.
+
+[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+
 
 <hr width="840px">
 
