@@ -1,4 +1,4 @@
-<img src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/helloworld!.gif"/><br>
+<img width="840px" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/helloworld!.gif"/><br>
 <img src="https://komarev.com/ghpvc/?username=mayckonrebecci&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 <a href="https://instagram.com/mayckonrebecci"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/Instagram_original.png"></a>&nbsp;&nbsp;
