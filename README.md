@@ -40,6 +40,7 @@
 ### ⚙️&nbsp;Frameworks
 
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/bootstrap-original.jpg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/bulma-plain.svg"/></a></code>&nbsp;
 
 <hr width="840px">
 
