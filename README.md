@@ -22,8 +22,8 @@
 <div >
   <a href="https://github.com/mayckonrebecci/">
    <img height="163px" src="https://github-readme-stats.vercel.app/api?username=mayckonrebecci&theme=dracula&hide_border=true&show_icons=true&(https://github.com/mayckonrebecci/)"/> &nbsp
-   <img height="163px" src="http://github-readme-streak-stats.herokuapp.com?user=mayckonrebecci&theme=dracula&hide_border=true&stroke=FF6E96&dates=DDDDDD" /><br>
-   <img height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayckonrebecci&hide_border=true&hide=html&layout=compact&theme=dracula&(https://github.com/mayckonrebecci/"/>  
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayckonrebecci&theme=great-gatsby&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
+   <img height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayckonrebecci&hide_border=true&hide=html&layout=compact&theme=great-gatsby&(https://github.com/mayckonrebecci/"/>  
   </a>
 </div>
 
