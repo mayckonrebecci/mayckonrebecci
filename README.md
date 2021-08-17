@@ -71,8 +71,6 @@
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/npm-original-wordmark.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mysql-original-wordmark.svg"/></a></code>&nbsp;
 
-mysql-original.svg
-  
 
 <!-- - 👋 Hi, I’m @mayckonrebecci
 - 👀 I’m interested in ...
