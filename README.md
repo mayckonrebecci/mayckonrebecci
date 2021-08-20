@@ -61,6 +61,7 @@
 ### 📖&nbsp;Comming to my Portfolio
 
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/typescript-original.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/sass-original.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/react-original.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/redux-original.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/express-original.svg"/></a></code>&nbsp;
