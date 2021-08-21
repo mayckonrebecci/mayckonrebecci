@@ -69,8 +69,10 @@
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/nextjs-original.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/jquery-original.svg"/></a></code></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mongodb-original.svg"/></a></code>&nbsp;
-<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/npm-original-wordmark.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mysql-original-wordmark.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/npm-original-wordmark.svg"/></a></code>&nbsp;
+<code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/yarn-original.svg"/></a></code>&nbsp;
+
 
 
 <!-- - 👋 Hi, I’m @mayckonrebecci
