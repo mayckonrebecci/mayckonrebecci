@@ -72,16 +72,3 @@
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mongodb-original.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/mysql-original-wordmark.svg"/></a></code>&nbsp;
 <code><a href="#"><img height="30" src="https://github.com/mayckonrebecci/mayckonrebecci/blob/main/myIcons/yarn-original.svg"/></a></code>&nbsp;
-
-
-
-<!-- - 👋 Hi, I’m @mayckonrebecci
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-mayckonrebecci/mayckonrebecci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
