@@ -8,7 +8,7 @@
 
 <!-- &nbsp;💼&nbsp;Co-founder and Partner Owner at <a href= "https://www.posthive.com.br/">PostHive</a>.<br> -->
 &nbsp;👨‍💻&nbsp;I learned hard to code in 2020.<br>
-&nbsp;👪&nbsp;Beloved Husband and father of Natalie.<br>
+&nbsp;👪&nbsp;Beloved husband and Natalie's dad.<br>
 &nbsp;📖&nbsp;Learning `Fullstack Web Development`. <br>
 &nbsp;🎯&nbsp;I'm currently deepen and learning Vanilla Javascript.<br>
 &nbsp;🧩&nbsp;An extension every Dev needs 👉 <a href="https://api.daily.dev/get?r=mayckonrebecci">HERE</a>.<br>
